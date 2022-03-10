@@ -2,9 +2,9 @@
 
 ## Latex : Greek Letters
 
-$$ \theta , \Theta = theta $$
+$$\theta , \Theta = theta$$
 
-$$ \sigma , \Sigma = sigma $$
+$\sigma , \Sigma = sigma$
 
 $$ \xi , \Xi = xi $$
 $$ \phi , \Phi = phi $$
