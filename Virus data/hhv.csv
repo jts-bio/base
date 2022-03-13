@@ -1,3 +1,15 @@
-HHV1,herpes simplex-1
-HHV3,varicella zoster
-HHV5,cytomegalovirus
+HHV1,
+   &n name,herpes simplex-1
+   &st subtype,alpha
+HHV3,
+   *n,varicella zoster
+   *st,alpha
+HHV4,
+   *n,Epstein-Barr virus
+   *st,gamma
+HHV5,
+   *n,cytomegalovirus
+   *st,beta
+HHV8,
+   *n,Kaposi's sarcoma-associated herpesvirus
+   *st,gamma
