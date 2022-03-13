@@ -3,14 +3,13 @@
 ## Tubing
 
 Table 1A
-<Table>
 
-1|2|3
-:--:|:--:|--:
-1|3|3
-inflict|pain|on me
+|1 |2 |3 |
+|—--|—--|—--|
+1 | 3 | 3
+inflict | pain | on me
 
-</Table>
+
 
 ---
 
@@ -22,3 +21,7 @@ inflict|pain|on me
 - cabazitaxel
 
 ---
+
+Table | No. 1
+------|-------
+abcd | abcd

@@ -1,0 +1,20 @@
+Stuctural :
+    - S :
+        name : spike
+    - M : 
+        name : membrane
+    - E : 
+        name : envelope
+    - N : 
+        name : neucleocapsid
+        
+NSPs :
+    - orf1ab : 
+        fx : Replication machinery
+        polyprotein : T
+    - orf6 :
+        fx : Shuttling / packaging
+        intx : Golgi / ER embedded
+    - orf8 :
+        fx : Immune evasion
+        intx : MHC-I (degradation)     
