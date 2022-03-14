@@ -1,7 +1,0 @@
-digraph {
-   a [label="MI"];
-   b [label="7C"];
-   c [label="S"];
-   
-   a -> b -> a -> c -> a;
-}
