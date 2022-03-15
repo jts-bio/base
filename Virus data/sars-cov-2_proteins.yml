@@ -1,6 +1,7 @@
 Stuctural :
     - S :
         name : spike
+        length : 1273
     - M : 
         name : membrane
     - E : 
@@ -12,9 +13,11 @@ NSPs :
     - orf1ab : 
         fx : Replication machinery
         polyprotein : T
+        
     - orf6 :
         fx : Shuttling / packaging
         intx : Golgi / ER embedded
+        
     - orf8 :
         fx : Immune evasion
         intx : MHC-I (degradation)     
