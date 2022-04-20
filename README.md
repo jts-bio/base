@@ -6,14 +6,15 @@ $$\theta , \Theta = theta$$
 $$\sigma , \Sigma = sigma$$
 $$ \xi , \Xi = xi $$
 $$ \phi , \Phi = phi $$
-$$ \epsilon , \Epsilon = epsilon $$
-$$ \delta , \Delta = delta $$
-$$ \chi , \Chi = chi $$
+<img src="https://render.githubusercontent.com/render/math?math={\color{white} \Large {5}\choose{4}">
 
-*** 
+<img src="https://render.githubusercontent.com/render/math?math={\color{white} \Large\L = -\sum_{j}[T_{j}ln(O_{j})] + \frac{\lambda W_{ij}^{2}}{2} \rightarrow \text{one-hot} \Rightarrow -ln(O_{c}) + \frac{\lambda W_{ij}^{2}}{2}}">
+
+
+
+***
 `omicron`
 ***
-
-<iframe id="9012219" allowtransparency="false" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9012219"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9012219"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+`delta`
 
 
