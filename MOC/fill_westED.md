@@ -41,6 +41,6 @@ Drug | BUD | Fridge
 -----|:-----:|---
 Bumetanide | 24h
 Lacosamide | $$ \red{4h}$$
-Alteplase | $\red {8h} $
+Alteplase | ${8h}$
 Daptomycin | 48h | RF
 Thiamine | 24h
