@@ -37,10 +37,11 @@ graph LR;
 
 ## BUD
 
-Drug | BUD | Fridge
------|:-----:|---
-Bumetanide | 24h
-Lacosamide | $$ \red{4h}$$
-Alteplase | ${8h}$
-Daptomycin | 48h | RF
-Thiamine | 24h
+| Drug       |   BUD   | Fridge                       |
+| ---------- | :-----: | ---------------------------- |
+| Bumetanide |  24 h   |                              |
+| Lacosamide | $$4~h$$ | <font color='red'>N/A</font> |
+| Alteplase  | $$8~h$$ | <font color='red'>N/A</font> |
+| Daptomycin |  48 h   | RF                           |
+| Thiamine   |  24 h   |                              |
+
